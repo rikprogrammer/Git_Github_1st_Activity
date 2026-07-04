@@ -1,1 +1,6 @@
 It is a file in the branch "rik"
+
+It is edited from the Clone folder
+
+It is edited from Github (Cloud)
+

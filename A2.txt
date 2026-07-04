@@ -2,3 +2,5 @@
 It is a file in the branch "chandan_3"
 
 It is a file in the branch "chandan_1"
+
+This line is added afterwards
